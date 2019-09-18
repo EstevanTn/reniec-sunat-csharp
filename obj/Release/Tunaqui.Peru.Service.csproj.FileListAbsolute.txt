@@ -1,0 +1,52 @@
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\bin\Release\Tunaqui.Peru.Service.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\bin\Release\Tunaqui.Peru.Service.pdb
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\bin\Release\tessnet2_32.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.pdb
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.xml
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csprojAssemblyReference.cache
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csproj.CoreCompileInputs.cache
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csproj.CopyComplete
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\RojitasUI\SUNAT\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.pdb
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\bin\Release\Tunaqui.Peru.Service.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\bin\Release\Tunaqui.Peru.Service.pdb
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\bin\Release\tessnet2_32.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.pdb
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.xml
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csprojAssemblyReference.cache
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csproj.CoreCompileInputs.cache
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csproj.CopyComplete
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.dll
+E:\REPOSITORIOS\HDD OLD\TNQSOFT\SUNAT Consulta\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.pdb
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.DangAmbigs
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.freq-dawg
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.inttemp
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.normproto
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.pffmtable
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.unicharset
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.user-words
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Content\tessdata\eng.word-dawg
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Tunaqui.Peru.Service.dll
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\Tunaqui.Peru.Service.pdb
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.dll
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\tessnet2_32.dll
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.pdb
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\bin\Release\HtmlAgilityPack.xml
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.DangAmbigs
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.freq-dawg
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.inttemp
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.normproto
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.pffmtable
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.unicharset
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.user-words
+E:\PROJECTS\COMPILADOS\Content\tessdata\eng.word-dawg
+E:\PROJECTS\COMPILADOS\Tunaqui.Peru.Service.xml
+E:\PROJECTS\COMPILADOS\Tunaqui.Peru.Service.dll
+E:\PROJECTS\COMPILADOS\Tunaqui.Peru.Service.pdb
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csprojAssemblyReference.cache
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csproj.CoreCompileInputs.cache
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.csproj.CopyComplete
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.dll
+E:\PROJECTS\TUNAQUI UTILS\Tunaqui.Peru.Service\obj\Release\Tunaqui.Peru.Service.pdb
